@@ -1,4 +1,4 @@
-### Hi there, I'm W.R.S. Kumara! 👋  
+[### Hi there, I'm W.R.S. Kumara! 👋  
 #### 🚀 Software Developer | UI/UX Enthusiast | Tech Explorer
 
 ---
@@ -45,3 +45,4 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wrskumara0108@gmail.com)  
 
 💻 **Let's build something amazing together!** 🚀
+](https://www.linkedin.com/in/ravindra-sampath-4a4612268/)
